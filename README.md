@@ -1,0 +1,1 @@
+The Library Management System developed by our group serves as an efficient tool for librarians to manage diverse media collections and enhance user experiences within the library. With its user-friendly interface, robust features, and reliable performance, the system contributes to the smooth operation of library services and promotes effective resource utilization.
